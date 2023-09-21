@@ -1,0 +1,8 @@
+@use "@colors" as colors;
+
+main {
+    background-color: colors.$green-light;
+    width: 512px;
+    border-radius: 8px;
+    padding: 32px;
+}
